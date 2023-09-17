@@ -1,2 +1,3 @@
-# Source_Code_PTIT
-Some code from codePTIT 😊😊😊
+Hello
+<li> There are some practice code from code PTIT</li>
+<li> It may be not optimal, it just for reference</li>
